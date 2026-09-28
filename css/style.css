@@ -1,0 +1,16 @@
+.mi_estilo{
+        background-color: azure;
+        color: #A2FA4B;
+        text-align: center;
+        margin-left: 100px;
+
+    }
+    <!-- asi solo se aplica a las etiquetas h1-->
+    h1{
+        color: rgb(132, 24, 24);
+    }
+    footer{
+        border-radius: 10px solid red;
+        border-color: blueviolet;
+
+    }
